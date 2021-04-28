@@ -1,0 +1,22 @@
+{
+  "name": "gulp-templates-from-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justjohnd/gulp-templates-from-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justjohnd/gulp-templates-from-class/issues"
+  },
+  "homepage": "https://github.com/justjohnd/gulp-templates-from-class#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
