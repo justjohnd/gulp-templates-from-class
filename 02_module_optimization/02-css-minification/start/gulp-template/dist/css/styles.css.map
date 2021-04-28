@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.less"],"names":[],"mappings":"AAEA;EACI,sBAAA","sourcesContent":["@bg: pink;\n\nbody {\n    background-color: @bg;\n}"],"file":"styles.css"}
